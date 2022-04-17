@@ -17,7 +17,7 @@ export default function HomeCard(props) {
       position="relative"
       borderRadius="50px"
       padding="0px 0px 0px 0px"
-      backgroundColor="rgba(255,255,255,1)"
+      backgroundColor="rgba(200,200,200,1)"
       {...rest}
       {...getOverrideProps(overrides, "HomeCard")}
     >
